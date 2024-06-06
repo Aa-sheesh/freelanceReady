@@ -9,5 +9,5 @@
 * AI
 
 # Expectations after this.
-* Freelance Ready
-* Fullstack Ready
+* Freelance Ready.
+* Fullstack Ready.
